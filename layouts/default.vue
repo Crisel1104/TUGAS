@@ -3,12 +3,12 @@
     <div class="main-wrapper">
       <partials-navbar />
       <partials-sidebar />
-
+      
       <!-- Main Content -->
       <div class="main-content">
         <section class="section">
           <div class="section-header">
-            <h1>Blank Page</h1>
+            <Nuxt />
           </div>
 
           <div class="section-body">
